@@ -64,5 +64,3 @@ Neural Network is one of the basic building blocks of Deep Learning. It is the f
 - Inspiration - https://youtu.be/3JQ3hYko51Y 
 
 -----------------------------------
-
-<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/m607stars">Mayank</a> and <a href="https://github.com/tushargithub44">Tushar</a> </b></h1>
